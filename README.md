@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **java,springboot**
+- 💬 Ask me about **java,springboot,html,css,bootstrap,javascript,react**
 
 - 📫 How to reach me **kavyabyreddy68@gmail.com**
 
