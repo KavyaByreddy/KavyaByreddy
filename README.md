@@ -27,7 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KavyaByreddy&show_icons=true&locale=en&layout=compact" alt="KavyaByreddy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KavyaByreddy&show_icons=true&locale=en" alt="KavyaByreddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KavyaByreddy&" alt="KavyaByreddy" /></p>
 
